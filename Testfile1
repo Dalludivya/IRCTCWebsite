@@ -1,0 +1,2 @@
+/* Create a stream from the text file at pathname /tmp/myfile. */
+mystream = br.openstream(pathname="/tmp/myfile", mode="z")
